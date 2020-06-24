@@ -1,6 +1,8 @@
 # IFDb - Internation Film Database
 
-[](!demo.gif)
+Find movies, TV shows or any piece of video media
+
+![](demo.gif)
 
 1. Type in a movie, TV show or any piece of media you want to find into the search box
 2. Hit Enter
